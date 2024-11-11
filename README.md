@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there! I am an aspiring data scientist with a passion for uncovering insight and driving decision making through data. I am always looking to improve skills, learn from others and collaborate on exciting projects.
 
-<!--
-**Kenneth059/Kenneth059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently developing skills in:
 
-Here are some ideas to get you started:
+📫Python programming and data analysis such as pandas, Numpy and Scikit-learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫Machine learning algorithms such as regression,classificaton,clustering, and deep learning.
+
+📫Data visualization tools such as Matplotlib, and seaborn.
+
+I consistently strive to remain current with the latest developments and methodologies in the field.
+
+Feel free to explore my latest projects on my Github repositories, and don't hesitate to contact me if you're interested in collaboration or have any inquiries!
+
+📫 Reach me at  +233 591540479, and on Linkedin @ Kenneth Hedze
